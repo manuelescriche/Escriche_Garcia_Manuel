@@ -12,7 +12,7 @@ public class App {
         System.out.println(lineaHeader);  
         System.out.println(prompt+" ".repeat(44-prompt.length())+"|");
         System.out.println(lineaHeader);
-        System.out.println(" 1) Nuevos almacen de libros");
+        System.out.println(" 1) Nuevo almacen de libros");
         System.out.println(" 2) Establecer ritmo de lectura (páginas por minuto)");
         System.out.println(" 3) Añadir un nuevo libro al almacen");
         System.out.println(" 4) Mostrar información actual de los libros");

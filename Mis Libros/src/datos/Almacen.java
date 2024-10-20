@@ -5,7 +5,6 @@ import java.util.ArrayList;
 
 
 public class Almacen {
-    //private Libro[] libros;
     ArrayList<Libro> libros; 
     private float ritmolec = 1;
     private float tiempoAlmacen;
