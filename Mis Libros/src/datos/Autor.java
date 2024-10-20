@@ -16,6 +16,15 @@ public class Autor {
     public String getNombre() {
         return nombre;
     }
+
+    public String getPremioPlaneta(){
+        if (premioPlaneta) {
+            return "Sí";
+        }else{
+            return "No";
+        }
+            
+    }
     public void setApellidos(String apellidos) {
         this.apellidos = apellidos;
     }
